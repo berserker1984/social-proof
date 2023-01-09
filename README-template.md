@@ -40,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/berserker1984/social-proof/)
 - Live Site URL: [Add live site URL here](https://berserker1984.github.io/social-proof/)
 
 ## My process
